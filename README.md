@@ -1,2 +1,2 @@
-# change_wallpaper
+# WallPaper Changer
 A simple wallpaper changer using python  - TkinterGui
